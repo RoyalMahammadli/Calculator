@@ -1,0 +1,25 @@
+   section {
+       width: 30%;
+       margin: 0 auto;
+       margin-top: 5rem;
+       text-align: center;
+   }
+
+   .box {
+       display: flex;
+       justify-content: center;
+       flex-direction: column;
+       border: 2px solid royalblue;
+       padding: 2rem;
+
+   }
+   input{
+    padding: .4rem;
+    border-radius:7px ;
+   }
+   button{
+    padding: .4rem;
+    /* display: flex;
+    justify-content: center;
+    align-items: center; */
+   }
